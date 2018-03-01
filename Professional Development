@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Professional Development</title>
+</head>
+<body>
+
+	<h1>Professional Development</h1>
+
+	<h2>Section 1:</h2>
+		<dt>
+			<dd>My three behaviors:</dd>
+				<dl>(6)"Understand that 'code is cheap.'" It's important to understand that if a code is not moving the proper direction then is could be better to start over rather than fight against scraping it.</dl>
+				<dl>(15)"Don't count the number of hours." Don't push so hard on a project that you begin to make mistakes from fatigue; it becomes counter productive.</dl>
+				<dl>(18)"Always code review your own work first" Look over your own code for issues before going to ask for help. You'll be helping yourself find mistakes and you'll avoid criticism for asking for help when not needed.</dl>
+		</dt>
+
+	<h2>Section 2:</h2>
+
+		<p>Organization. A check list is a simple but effective tool. Often times small details can be overlooked and passed by. A check list will help ensure that all details are given proper attention. In a work setting a list is helpful for a group project; so that everyone understands what needs to be accomplished and by when.</p>
+
+	<h2>Section 3:</h2>
+<p>If you are working with your strengths then you'll be in a happier state and will then have better results in your work. A shot putter could run the 100 meter sprint but... </p>
+		<p>*The list below is a my strengths*</p>
+
+		<dt>
+			<dd>Adaptability</dd>
+				<dl>-People who are especially talented in the Adaptability theme prefer to “go with the flow.” They tend to be “now” people who take things as they come and discover the future one day at a time.</dl>
+			<dd>Relator</dd>
+				<dl>-People who are especially talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal.</dl>
+			<dd>Empathy</dd>
+				<dl>-People who are especially talented in the Empathy theme can sense the feelings of other people by imagining themselves in others’ lives or others’ situations.</dl>
+			<dd>Responsibility</dd>
+				<dl>-People who are especially talented in the Responsibility theme take psychological ownership of what they say they will do. They are committed to stable values such as honesty and loyalty.</dl>
+			<dd>Strategic</dd>
+				<dl>-People who are especially talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues.</dl>
+
+		</dt>
+
+		<p>Those strengths I believe will develop nicely in the Dev field; Adapt and go with the flow, Relate with my team and coworkers, Empathize with user to get experience from their view point, Have responsibility and be reliable, and Be strategic in my code assessment.</p>
+</body>
+</html>
